@@ -1,0 +1,8 @@
+sdesc: "Programs to make file renaming easier"
+ldesc: "The file renaming utilities (renameutils for short) are a set of programs
+designed to make renaming of files faster and less cumbersome.  Includes
+five utilities: qmv (edit names with an editor), imv (edit rename name with
+readline), icp (like imv), qcp (like qmv) and deurlname (remove URL encoded
+characters)."
+category: Utils
+requires: libintl8 libncursesw10 libreadline7
