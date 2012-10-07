@@ -30,6 +30,7 @@ Runtime requirements:
   libreadline7
 
 Build requirements:
+  quilt
   libintl-devel
   libncursesw-devel
   readline
