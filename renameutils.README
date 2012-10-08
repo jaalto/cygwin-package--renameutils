@@ -26,7 +26,7 @@ encoded in saved files.
 
 Runtime requirements:
   libintl8
-  libncursesw10
+  libncursesw10			# indirectly via libreadline7
   libreadline7
 
 Build requirements:
