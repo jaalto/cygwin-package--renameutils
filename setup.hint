@@ -5,4 +5,4 @@ five utilities: qmv (edit names with an editor), imv (edit rename name with
 readline), icp (like imv), qcp (like qmv) and deurlname (remove URL encoded
 characters)."
 category: Utils
-requires: libintl8 libncursesw10 libreadline7
+requires: libintl8 libreadline7
