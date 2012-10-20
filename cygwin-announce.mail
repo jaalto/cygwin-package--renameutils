@@ -1,4 +1,5 @@
 To: cygwin-announce@cygwin.com
+Subject: New package: renameutils 0.12.0 -- Programs to make file renaming easier
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -12,7 +13,6 @@ designed to make renaming of files faster and less cumbersome.  Includes
 five utilities: qmv (edit names with an editor), imv (edit rename name with
 readline), icp (like imv), qcp (like qmv) and deurlname (remove URL encoded
 characters).
-
 
 CHANGES SINCE LAST RELEASE
 ==========================
